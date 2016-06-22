@@ -1,27 +1,27 @@
-## [Company Name]
+## Stackfid
 
 ### EMPLOYEE CONFIDENTIALITY AND NON DISCLOSURE AGREEMENT
 
-This Employee Confidentiality and Non-Disclosure Agreement (the "Agreement"), executed this ____ day of _____________, 20____, but effective for all purposes on the Effective Date, is entered into, by and among "[COMPANY NAME]" ("[AKA]"), a [state and entity type], and ____________________________________, an individual and Employee of "[AKA]" ("Employee").
+This Employee Confidentiality and Non-Disclosure Agreement (the "Agreement"), executed this ____ day of _____________, 20____, but effective for all purposes on the Effective Date, is entered into, by and among "[Stackfid]" ("[The company]"), a [state and entity type], and ____________________________________, an individual and Employee of "[The company]" ("Employee").
 
 1.  RECITALS
-  1.1.  Employee is an "at will" employee of "[AKA]".
+  1.1.  Employee is an "at will" employee of "[The company]".
 
-  1.2.  Employee understands that the employment opportunity extended by "[AKA]" to Employee requires that employee understand, agree to and abide by the terms of this Agreement.
+  1.2.  Employee understands that the employment opportunity extended by "[The company]" to Employee requires that employee understand, agree to and abide by the terms of this Agreement.
 
-  1.3.  Employee understands that the nature [AKA]'s services for its Clients often times involves the disclosure, discovery or other use or exposure to the confidential information of or regarding [AKA]'s Clients and/or other third parties, which must be kept in the strictest of confidences.
+  1.3.  Employee understands that the nature [The company]'s services for its Clients often times involves the disclosure, discovery or other use or exposure to the confidential information of or regarding [The company]'s Clients and/or other third parties, which must be kept in the strictest of confidences.
 
-  1.4.  Employee understands that, from time to time, [AKA], its employees, officers, agents, and independent contractors, may be subject to statutory, regulatory or Court ordered confidentiality requirements that strictly forbid the disclosure of certain Confidential Information.
+  1.4.  Employee understands that, from time to time, [The company], its employees, officers, agents, and independent contractors, may be subject to statutory, regulatory or Court ordered confidentiality requirements that strictly forbid the disclosure of certain Confidential Information.
 
-  1.5.  Employee understands that the development and/or sale of software and other products, alone or in conjunction with other entities, is very sensitive in nature and often requires strict confidentiality provisions be enforced to protect both [AKA]'s intellectual property and [AKA]'s client's confidential information.
+  1.5.  Employee understands that the development and/or sale of software and other products, alone or in conjunction with other entities, is very sensitive in nature and often requires strict confidentiality provisions be enforced to protect both [The company]'s intellectual property and [The company]'s client's confidential information.
 
-  1.6.  Employee may have already acquired and will acquire certain Confidential Information of [AKA] and its Clients.
+  1.6.  Employee may have already acquired and will acquire certain Confidential Information of [The company] and its Clients.
 
-  1.7.  The parties acknowledge that the Confidential Information has independent economic value to [AKA] and its Clients. Employee further acknowledges that [AKA] has taken, and will continue to take, steps to preserve and safeguard the secrecy of the Confidential Information.
+  1.7.  The parties acknowledge that the Confidential Information has independent economic value to [The company] and its Clients. Employee further acknowledges that [The company] has taken, and will continue to take, steps to preserve and safeguard the secrecy of the Confidential Information.
 
-  1.8.  Employee understands the violation of this Agreement is grounds for immediate termination of Employee's employment with [AKA].
+  1.8.  Employee understands the violation of this Agreement is grounds for immediate termination of Employee's employment with [The company].
 
-  1.9.  The Employee understands that if Employee refused to agree to the terms of and execute this Agreement, [AKA] would not extend an employment opportunity to Employee.
+  1.9.  The Employee understands that if Employee refused to agree to the terms of and execute this Agreement, [The company] would not extend an employment opportunity to Employee.
 
 IN CONSIDERATION of the mutual covenants and agreements contained herein, and or such other good and valuable consideration, the receipt and adequacy of which is hereby admitted and acknowledged, the parties hereto agree as follows:
 
